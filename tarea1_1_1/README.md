@@ -73,7 +73,8 @@ Primer párrafo.
 
 Segundo párrafo.
 
-Primer párrafo.  Segundo párrafo.
+Primer párrafo.  
+Segundo párrafo.
 
 ## Citas y comentarios
 

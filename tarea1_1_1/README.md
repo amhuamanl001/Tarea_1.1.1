@@ -58,7 +58,7 @@ Visita de nuevo [GitHub] [gh]
 
 ## Imagen que funciona como enlace
 
-![[Imagen de reze](./images/reze.jpg)](https://www.crunchyroll.com/es-es/series/GNVHKN92K/chainsaw-man--the-movie-reze-arc?srsltid=AU7gw4UK4LtFs_DlQ6FZRuonYPICrosmSt5vNaNDWMj1Kd_8ID5_oGhe)
+![[imagen de reze](./images/reze.jpg)](https://www.crunchyroll.com)
 
 ## Tablas en GitHub
 

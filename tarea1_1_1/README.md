@@ -58,7 +58,7 @@ Visita de nuevo [GitHub] [gh]
 
 ## Imagen que funciona como enlace
 
-![imagen de reze](./images/reze.jpg)(https://www.crunchyroll.com)
+[![imagen de reze](./images/reze.jpg)](https://www.crunchyroll.com)
 
 ## Tablas en GitHub
 
